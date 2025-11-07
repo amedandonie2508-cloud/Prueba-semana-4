@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+}
+.background-img{
+    background-image: url(https://img.asmedia.epimg.net/resizer/v2/2RX42RT2HBMR5EVYARQP34IVGU.jpg?auth=6e2e39f0f7904ce2a9e8435168d3311abc8f305c8b4ee05162c530eb40c8ebec&width=1472&height=828&smart=true);
+    background-size: cover;
+    position: center;
+}
+.texto-blanco{
+    color: white;
+}
+.pad-section{
+    padding: 300px ;
+}
+.icons{
+    font-size: 36px;
+    color: blue;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.pad-mid{
+    padding: 50px;
+}
+.sec-2{
+    background-color: rgb(184, 182, 182);
+}
+.background-img2{
+    background-image: url(https://aprendelibvrefiles.blob.core.windows.net/aprendelibvre-container/course/informatica_basica/image/tabletycel-01_xl.png);
+    background-size: cover;
+    position: center;
+    height: 400px;
+
+}
+.pad-cols{
+    padding-left: 30px;
+   
+}
+.background-img3{
+    background-image: url(https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-A-person-setting-a-PC-on-a-table?scl=1);
+    background-size: cover;
+    position: center;
+    height: 400px;
+}
+
+.pad-section2{
+    padding: 150px ;
+}
